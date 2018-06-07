@@ -1,0 +1,28 @@
+a{
+	color: #19a902;
+}
+.navbar-default {
+    background-color: #d2f5dd;
+    border-color: #04d84c;
+}
+.btn-primary {
+    color: #fff;
+    background-color: #4eaa2a;
+    border-color: #d2f5dd;
+}
+.nav>li>a:focus, .nav>li>a:hover {
+    text-decoration: none;
+    background-color: #ffd0d0;
+}
+a:focus, a:hover {
+    color: #a94442;
+    text-decoration: underline;
+}
+.panel-body{
+	    background-color: #f5f5f5;
+}
+button.close {
+    padding: 3px;}
+    .pequeno{
+    	max-width: 90px;
+    }
