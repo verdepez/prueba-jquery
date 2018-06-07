@@ -30,7 +30,7 @@ $(document).ready(function(){
 	});
 	$('.pizarra').on('click','.eliminar', function(event){
 		event.stopPropagation();
-		$(this).parent().fadeOut(700);
+		$(this).parent().fadeOut(100);
 	});
 
 	$('.pizarra').on('click', '.megusto', function(){
